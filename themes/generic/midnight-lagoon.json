@@ -1,0 +1,23 @@
+{
+    "background": "#0B1C22",
+    "foreground": "#B6CACB",
+    "cursorColor": "#FF7263",
+    "selectionBackground": "#1B3741",
+    "black": "#18262C",
+    "white": "#EEE7D8",
+    "brightBlack": "#6F888E",
+    "brightWhite": "#FAF5E9",
+    "red": "#F26D67",
+    "brightRed": "#FBA7A0",
+    "green": "#52B65A",
+    "brightGreen": "#84D987",
+    "yellow": "#C29524",
+    "brightYellow": "#EAB946",
+    "blue": "#2DA7ED",
+    "brightBlue": "#83CAFB",
+    "purple": "#D374CC",
+    "brightPurple": "#F39FEC",
+    "cyan": "#29B2B2",
+    "brightCyan": "#35DADA",
+    "name": "Midnight Lagoon"
+}

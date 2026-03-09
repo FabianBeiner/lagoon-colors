@@ -1,0 +1,23 @@
+{
+    "background": "#F3F0E4",
+    "foreground": "#1E343B",
+    "cursorColor": "#D02D27",
+    "selectionBackground": "#D3E6E6",
+    "black": "#16272D",
+    "white": "#F8F5EC",
+    "brightBlack": "#546A70",
+    "brightWhite": "#FEFCF6",
+    "red": "#B02429",
+    "brightRed": "#9C141D",
+    "green": "#167625",
+    "brightGreen": "#12651F",
+    "yellow": "#7A5D12",
+    "brightYellow": "#694F0E",
+    "blue": "#156897",
+    "brightBlue": "#105A83",
+    "purple": "#92358D",
+    "brightPurple": "#851F80",
+    "cyan": "#167070",
+    "brightCyan": "#126060",
+    "name": "Morning Lagoon"
+}

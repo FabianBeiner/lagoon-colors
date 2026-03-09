@@ -1,0 +1,23 @@
+/* Morning Lagoon — CSS Custom Properties */
+:root {
+  --ml-background: #F3F0E4;
+  --ml-foreground: #1E343B;
+  --ml-cursor: #D02D27;
+  --ml-selection: #D3E6E6;
+  --ml-black: #16272D;
+  --ml-red: #B02429;
+  --ml-green: #167625;
+  --ml-yellow: #7A5D12;
+  --ml-blue: #156897;
+  --ml-purple: #92358D;
+  --ml-cyan: #167070;
+  --ml-white: #F8F5EC;
+  --ml-bright-black: #546A70;
+  --ml-bright-red: #9C141D;
+  --ml-bright-green: #12651F;
+  --ml-bright-yellow: #694F0E;
+  --ml-bright-blue: #105A83;
+  --ml-bright-purple: #851F80;
+  --ml-bright-cyan: #126060;
+  --ml-bright-white: #FEFCF6;
+}

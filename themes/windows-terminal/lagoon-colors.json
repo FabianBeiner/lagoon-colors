@@ -1,0 +1,104 @@
+{
+    "profiles": {
+        "defaults": {
+            "colorScheme": {
+                "dark": "Midnight Lagoon",
+                "light": "Morning Lagoon"
+            }
+        }
+    },
+    "schemes": [
+        {
+            "background": "#0B1C22",
+            "black": "#18262C",
+            "blue": "#2DA7ED",
+            "brightBlack": "#6F888E",
+            "brightBlue": "#83CAFB",
+            "brightCyan": "#35DADA",
+            "brightGreen": "#84D987",
+            "brightPurple": "#F39FEC",
+            "brightRed": "#FBA7A0",
+            "brightWhite": "#FAF5E9",
+            "brightYellow": "#EAB946",
+            "cursorColor": "#FF7263",
+            "cyan": "#29B2B2",
+            "foreground": "#B6CACB",
+            "green": "#52B65A",
+            "name": "Midnight Lagoon",
+            "purple": "#D374CC",
+            "red": "#F26D67",
+            "selectionBackground": "#1B3741",
+            "white": "#EEE7D8",
+            "yellow": "#C29524"
+        },
+        {
+            "background": "#F3F0E4",
+            "black": "#16272D",
+            "blue": "#156897",
+            "brightBlack": "#546A70",
+            "brightBlue": "#105A83",
+            "brightCyan": "#126060",
+            "brightGreen": "#12651F",
+            "brightPurple": "#851F80",
+            "brightRed": "#9C141D",
+            "brightWhite": "#1E343B",
+            "brightYellow": "#694F0E",
+            "cursorColor": "#D02D27",
+            "cyan": "#167070",
+            "foreground": "#1E343B",
+            "green": "#167625",
+            "name": "Morning Lagoon",
+            "purple": "#92358D",
+            "red": "#B02429",
+            "selectionBackground": "#D3E6E6",
+            "white": "#546A70",
+            "yellow": "#7A5D12"
+        }
+    ],
+    "theme": {
+        "dark": "Midnight Lagoon Theme",
+        "light": "Morning Lagoon Theme"
+    },
+    "themes": [
+        {
+            "name": "Midnight Lagoon Theme",
+            "tab": {
+                "background": "terminalBackground",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": "#18262CFF"
+            },
+            "tabRow": {
+                "background": "#18262CFF",
+                "unfocusedBackground": "#0B1C22FF"
+            },
+            "window": {
+                "applicationTheme": "dark",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        },
+        {
+            "name": "Morning Lagoon Theme",
+            "tab": {
+                "background": "terminalBackground",
+                "iconStyle": "default",
+                "showCloseButton": "always",
+                "unfocusedBackground": "#D3E6E6FF"
+            },
+            "tabRow": {
+                "background": "#D3E6E6FF",
+                "unfocusedBackground": "#F3F0E4FF"
+            },
+            "window": {
+                "applicationTheme": "light",
+                "experimental.rainbowFrame": false,
+                "frame": null,
+                "unfocusedFrame": null,
+                "useMica": false
+            }
+        }
+    ]
+}

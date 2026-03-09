@@ -1,0 +1,44 @@
+{
+  "name": "lagoon-colors",
+  "displayName": "Lagoon Colors",
+  "description": "Midnight Lagoon and Morning Lagoon themes for VS Code",
+  "publisher": "FabianBeiner",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color-theme",
+    "lagoon"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Midnight Lagoon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-lagoon-color-theme.json"
+      },
+      {
+        "label": "Morning Lagoon",
+        "uiTheme": "vs",
+        "path": "./themes/morning-lagoon-color-theme.json"
+      }
+    ]
+  },
+  "files": [
+    "themes/*.json",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "url": "https://github.com/FabianBeiner/lagoon-colors.git",
+    "type": "git"
+  }
+}
+

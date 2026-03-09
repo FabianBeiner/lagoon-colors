@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lagoon Colors</title>
+  <style>
+    :root {
+      --md-bg: #0B1C22;
+      --md-fg: #B6CACB;
+      --md-panel: #102932;
+      --md-muted: #6F888E;
+      --mr-bg: #F3F0E4;
+      --mr-fg: #1E343B;
+      --mr-panel: #E5E1D4;
+      --red: #F26D67;
+      --green: #52B65A;
+      --yellow: #C29524;
+      --blue: #2DA7ED;
+      --purple: #D374CC;
+      --cyan: #29B2B2;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", "Noto Sans", sans-serif;
+      background: linear-gradient(140deg, #0B1C22 0%, #13343E 45%, #1E343B 100%);
+      color: #EAF2F3;
+    }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 28px 18px 42px; }
+    .hero { margin-bottom: 18px; }
+    h1 { margin: 0 0 8px; font-size: 2rem; }
+    .lead { margin: 0; color: #B6CACB; }
+    .actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+    .btn {
+      display: inline-block;
+      text-decoration: none;
+      color: #0B1C22;
+      background: #83CAFB;
+      border: 1px solid #2DA7ED;
+      border-radius: 999px;
+      padding: 8px 14px;
+      font-weight: 600;
+    }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; margin-top: 20px; }
+    @media (max-width: 900px) { .grid { grid-template-columns: 1fr; } }
+    .theme {
+      border-radius: 14px;
+      overflow: hidden;
+      border: 1px solid #315763;
+      box-shadow: 0 12px 28px rgba(0,0,0,0.25);
+    }
+    .theme header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 12px;
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+    .preview {
+      padding: 12px;
+      font-family: Consolas, "Cascadia Code", monospace;
+      font-size: 15px;
+      line-height: 1.45;
+      min-height: 240px;
+      border-top: 1px solid rgba(0,0,0,0.2);
+    }
+    .swatches { display: grid; grid-template-columns: repeat(8, 1fr); gap: 6px; margin-top: 12px; }
+    .swatches span { height: 18px; border-radius: 6px; border: 1px solid rgba(255,255,255,0.15); }
+    .midnight header { background: var(--md-panel); color: var(--md-fg); }
+    .midnight .preview { background: var(--md-bg); color: var(--md-fg); }
+    .morning header { background: var(--mr-panel); color: var(--mr-fg); }
+    .morning .preview { background: var(--mr-bg); color: var(--mr-fg); }
+    .comment { color: #6F888E; }
+    .kw { color: var(--purple); }
+    .fn { color: var(--blue); }
+    .str { color: var(--cyan); }
+    .num { color: var(--yellow); }
+    .ok { color: var(--green); }
+    .err { color: var(--red); }
+    .section {
+      margin-top: 16px;
+      background: rgba(11, 28, 34, 0.65);
+      border: 1px solid #315763;
+      border-radius: 12px;
+      padding: 14px;
+    }
+    .links { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap: 10px 20px; }
+    @media (max-width: 900px) { .links { grid-template-columns: 1fr; } }
+    .links a { color: #83CAFB; text-decoration: none; }
+    .links a:hover { text-decoration: underline; }
+    .muted { color: #A4BEC2; font-size: 0.95rem; }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <section class="hero">
+      <h1>Lagoon Colors</h1>
+      <p class="lead">OKLCh-based themes with consistent lightness and ANSI-compliant color mapping.</p>
+      <div class="actions">
+        <a class="btn" href="https://github.com/FabianBeiner/lagoon-colors">GitHub Repository</a>
+        <a class="btn" href="https://github.com/FabianBeiner/lagoon-colors/tree/main/themes">Theme Files</a>
+      </div>
+    </section>
+    <section class="grid">
+      <article class="theme midnight">
+        <header><span>Midnight Lagoon</span><span>#0B1C22</span></header>
+        <div class="preview">
+          <div class="comment">// Perceptually uniform terminal colors</div>
+          <div><span class="kw">import</span> { <span class="fn">createServer</span> } <span class="kw">from</span> <span class="str">'node:http'</span>;</div>
+          <div>&nbsp;</div>
+          <div><span class="kw">const</span> port = <span class="num">3000</span>;</div>
+          <div><span class="ok">+ 24 tests passed</span></div>
+          <div><span class="err">- Port 5432 refused</span></div>
+          <div class="swatches">
+            <span style="background:#18262C"></span><span style="background:#F26D67"></span><span style="background:#52B65A"></span><span style="background:#C29524"></span><span style="background:#2DA7ED"></span><span style="background:#D374CC"></span><span style="background:#29B2B2"></span><span style="background:#EEE7D8"></span>
+          </div>
+        </div>
+      </article>
+      <article class="theme morning">
+        <header><span>Morning Lagoon</span><span>#F3F0E4</span></header>
+        <div class="preview">
+          <div class="comment">// Perceptually uniform terminal colors</div>
+          <div><span class="kw">import</span> { <span class="fn">createServer</span> } <span class="kw">from</span> <span class="str">'node:http'</span>;</div>
+          <div>&nbsp;</div>
+          <div><span class="kw">const</span> port = <span class="num">3000</span>;</div>
+          <div><span class="ok">+ 24 tests passed</span></div>
+          <div><span class="err">- Port 5432 refused</span></div>
+          <div class="swatches">
+            <span style="background:#16272D"></span><span style="background:#B02429"></span><span style="background:#167625"></span><span style="background:#7A5D12"></span><span style="background:#156897"></span><span style="background:#92358D"></span><span style="background:#167070"></span><span style="background:#F8F5EC"></span>
+          </div>
+        </div>
+      </article>
+    </section>
+    <section class="section">
+      <h2>Downloads</h2>
+      <div class="links">
+        <a href="https://raw.githubusercontent.com/FabianBeiner/lagoon-colors/main/themes/notepad-plus-plus/Midnight%20Lagoon.xml">Notepad++ Midnight Lagoon.xml</a>
+        <a href="https://raw.githubusercontent.com/FabianBeiner/lagoon-colors/main/themes/notepad-plus-plus/Morning%20Lagoon.xml">Notepad++ Morning Lagoon.xml</a>
+        <a href="https://raw.githubusercontent.com/FabianBeiner/lagoon-colors/main/themes/windows-terminal/lagoon-colors.json">Windows Terminal lagoon-colors.json</a>
+        <a href="https://raw.githubusercontent.com/FabianBeiner/lagoon-colors/main/themes/vscode/midnight-lagoon-color-theme.json">VS Code midnight JSON</a>
+        <a href="https://raw.githubusercontent.com/FabianBeiner/lagoon-colors/main/themes/vscode/morning-lagoon-color-theme.json">VS Code morning JSON</a>
+        <a href="https://raw.githubusercontent.com/FabianBeiner/lagoon-colors/main/themes/vscode/dist/lagoon-colors-1.0.0.vsix">VS Code extension (.vsix) v1.0.0</a>
+      </div>
+      <p class="muted">Sources and generators: <a href="https://github.com/FabianBeiner/lagoon-colors/tree/main/palette">palette</a>, <a href="https://github.com/FabianBeiner/lagoon-colors/tree/main/sources">sources</a>, <a href="https://github.com/FabianBeiner/lagoon-colors/tree/main/scripts">scripts</a>.</p>
+    </section>
+  </main>
+</body>
+</html>
+

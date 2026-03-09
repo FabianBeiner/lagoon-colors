@@ -1,0 +1,23 @@
+/* Midnight Lagoon — CSS Custom Properties */
+:root {
+  --ml-background: #0B1C22;
+  --ml-foreground: #B6CACB;
+  --ml-cursor: #FF7263;
+  --ml-selection: #1B3741;
+  --ml-black: #18262C;
+  --ml-red: #F26D67;
+  --ml-green: #52B65A;
+  --ml-yellow: #C29524;
+  --ml-blue: #2DA7ED;
+  --ml-purple: #D374CC;
+  --ml-cyan: #29B2B2;
+  --ml-white: #EEE7D8;
+  --ml-bright-black: #6F888E;
+  --ml-bright-red: #FBA7A0;
+  --ml-bright-green: #84D987;
+  --ml-bright-yellow: #EAB946;
+  --ml-bright-blue: #83CAFB;
+  --ml-bright-purple: #F39FEC;
+  --ml-bright-cyan: #35DADA;
+  --ml-bright-white: #FAF5E9;
+}
