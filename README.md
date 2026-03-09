@@ -178,17 +178,6 @@ Chroma is intentionally **not** equalized across hues. The sRGB gamut varies by 
 
 ---
 
-# 🌐 GitHub Pages
-
-The project page is built from `/docs`:
-
-- source: `docs/index.html`
-- expected URL: `https://fabianbeiner.github.io/lagoon-colors/`
-
-Use repository settings: **Pages -> Deploy from a branch -> main /docs**.
-
----
-
 # 🙏 Credits
 
 This palette builds on ideas from three seminal color scheme projects:
@@ -201,4 +190,4 @@ This palette builds on ideas from three seminal color scheme projects:
 
 # 📄 License
 
-MIT
+[MIT](LICENSE)
