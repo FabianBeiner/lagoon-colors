@@ -111,6 +111,7 @@ Every color slot contains the color users expect, so standard CLI tools render c
 | Notepad++                   | `themes/notepad-plus-plus/Midnight Lagoon.xml`       | `themes/notepad-plus-plus/Morning Lagoon.xml`      |
 | VS Code                     | `themes/vscode/midnight-lagoon-color-theme.json`     | `themes/vscode/morning-lagoon-color-theme.json`    |
 | Windows Terminal            | `themes/windows-terminal/lagoon-colors.json`         | `themes/windows-terminal/lagoon-colors.json`       |
+| Codex                       | `themes/codex/midnight-lagoon-codex-theme.txt`       | `themes/codex/morning-lagoon-codex-theme.txt`      |
 | Generic (CSS / JSON / SCSS) | `themes/generic/midnight-lagoon.*`                   | `themes/generic/morning-lagoon.*`                  |
 | VS Code Extension (VSIX)    | `themes/vscode/dist/lagoon-colors-1.0.0.vsix`        | `themes/vscode/dist/lagoon-colors-1.0.0.vsix`      |
 
