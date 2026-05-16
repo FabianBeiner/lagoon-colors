@@ -5,7 +5,7 @@ Author: Fabian Beiner
 Date: 2026-03-09
 Credits: Built from stylers.model.xml (official Notepad++ model) and lagoon palette.oklch.json.
 Notes: Uses background inheritance (colorStyle="1") for styles that normally use the default editor background.-->
-<NotepadPlus modelDate="20251223">
+<NotepadPlus modelDate="20251223" modelFileLastModifiedDate="20260507">
     <LexerStyles>
         <LexerType name="actionscript" desc="ActionScript" ext="">
             <WordsStyle name="DEFAULT" styleID="11" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -41,12 +41,12 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="INSTRUCTION WORD" styleID="1" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
             <WordsStyle name="IDENTIFIER" styleID="2" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="NUMBER" styleID="3" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="DELIMITER" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="DELIMITER" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="CHARACTER" styleID="5" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING" styleID="7" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="LABEL" styleID="9" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT LINE" styleID="10" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ILLEGAL" styleID="11" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ILLEGAL" styleID="11" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="asn1" desc="ASN.1" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -64,7 +64,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         <LexerType name="asp" desc="ASP" ext="">
             <WordsStyle name="DEFAULT" styleID="81" fgColor="83CAFB" bgColor="134347" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMMENT LINE" styleID="82" fgColor="52B65A" bgColor="134347" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="83" fgColor="FBA7A0" bgColor="134347" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="83" fgColor="FBA8A0" bgColor="134347" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="WORD" styleID="84" fgColor="2DA7ED" bgColor="134347" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="STRING" styleID="85" fgColor="6F888E" bgColor="134347" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="86" fgColor="B6CACB" bgColor="134347" fontName="" fontStyle="0" fontSize="" />
@@ -134,7 +134,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="3" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT DOC" styleID="2" fgColor="52B65A" bgColor="3B3B23" fontName="" fontStyle="3" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="KEYWORDS" styleID="4" fgColor="29B2B2" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
             <WordsStyle name="STRING" styleID="5" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="PREPROCESSOR" styleID="6" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
@@ -143,7 +143,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="STRING EOL NC" styleID="9" fgColor="B6CACB" bgColor="3F334E" fontName="" fontStyle="3" fontSize="" />
             <WordsStyle name="FUNCTIONS" styleID="10" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre2" colorStyle="1" />
             <WordsStyle name="FUNCTIONS ABRIDGED" styleID="11" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type1" colorStyle="1" />
-            <WordsStyle name="SUB SECTIONS" styleID="12" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type2" colorStyle="1" />
+            <WordsStyle name="SUB SECTIONS" styleID="12" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type2" colorStyle="1" />
             <WordsStyle name="MAIN SECTIONS" styleID="13" fgColor="D374CC" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type3" colorStyle="1" />
             <WordsStyle name="PREDEFINED VARIABLE" styleID="14" fgColor="D374CC" bgColor="134347" fontName="" fontStyle="1" fontSize="" keywordClass="type4" />
             <WordsStyle name="PREDEFINED ATTRIBUTES" styleID="15" fgColor="F39FEC" bgColor="1D4431" fontName="" fontStyle="1" fontSize="" keywordClass="type5" />
@@ -153,7 +153,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="TABLE SQL" styleID="19" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="DLL FUNCTIONS" styleID="20" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="DOMAIN DEFINITIONS" styleID="21" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="5" fontSize="" colorStyle="1" />
-            <WordsStyle name="FUNCTION DEFINITIONS" styleID="22" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="5" fontSize="" colorStyle="1" />
+            <WordsStyle name="FUNCTION DEFINITIONS" styleID="22" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="5" fontSize="" colorStyle="1" />
             <WordsStyle name="OBJECT DEFINITIONS" styleID="23" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="5" fontSize="" colorStyle="1" />
             <WordsStyle name="PREPROC DEFINITIONS" styleID="24" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="5" fontSize="" colorStyle="1" />
         </LexerType>
@@ -161,7 +161,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ERROR" styleID="1" fgColor="B6CACB" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="INSTRUCTION WORD" styleID="4" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING" styleID="5" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="CHARACTER" styleID="6" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="7" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
@@ -171,7 +171,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="PARAM" styleID="10" fgColor="29B2B2" bgColor="134347" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="BACKTICKS" styleID="11" fgColor="F26D67" bgColor="1D4431" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="HERE DELIM" styleID="12" fgColor="B6CACB" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="HERE Q" styleID="13" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="HERE Q" styleID="13" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="USER KEYWORDS 1" styleID="128" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="substyle1" colorStyle="1" />
             <WordsStyle name="USER KEYWORDS 2" styleID="129" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="substyle2" colorStyle="1" />
             <WordsStyle name="USER KEYWORDS 3" styleID="130" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="substyle3" colorStyle="1" />
@@ -185,11 +185,11 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="KEYWORDS" styleID="2" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
-            <WordsStyle name="LABEL" styleID="3" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" />
+            <WordsStyle name="LABEL" styleID="3" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="HIDE SYMBOL" styleID="4" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMAND" styleID="5" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="VARIABLE" styleID="6" fgColor="EAB946" bgColor="2A3B40" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="OPERATOR" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="OPERATOR" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="AFTER LABEL" styleID="8" fgColor="52B65A" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" />
         </LexerType>
         <LexerType name="blitzbasic" desc="BlitzBasic" ext="">
@@ -322,7 +322,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="WHILEDEF" styleID="9" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="FOREACHDEF" styleID="10" fgColor="29B2B2" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="IFDEF" styleID="11" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="MACRODEF" styleID="12" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="MACRODEF" styleID="12" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING VARIABLE" styleID="13" fgColor="6F888E" bgColor="2A3B40" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="NUMBER" styleID="14" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
         </LexerType>
@@ -351,7 +351,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="INSTR" styleID="4" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="IDENTIFIER" styleID="5" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPCODE" styleID="6" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
-            <WordsStyle name="HEADER STATEMENT" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" colorStyle="1" />
+            <WordsStyle name="HEADER STATEMENT" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" colorStyle="1" />
             <WordsStyle name="USER KEYWORDS" styleID="8" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="type1" colorStyle="1" />
             <WordsStyle name="COMMENT BLOCK" styleID="9" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="PARAMETER" styleID="10" fgColor="D374CC" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
@@ -386,7 +386,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         <LexerType name="css" desc="CSS" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="TAG" styleID="1" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="CLASS" styleID="2" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="CLASS" styleID="2" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="PSEUDOCLASS" styleID="3" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre2" colorStyle="1" />
             <WordsStyle name="UNKNOWN PSEUDOCLASS" styleID="4" fgColor="B6CACB" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="OPERATOR" styleID="5" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
@@ -395,7 +395,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="VALUE" styleID="8" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="9" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ID" styleID="10" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="IMPORTANT" styleID="11" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="IMPORTANT" styleID="11" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="DIRECTIVE" styleID="12" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DOUBLE STRING" styleID="13" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SINGLE STRING" styleID="14" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -445,7 +445,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         </LexerType>
         <LexerType name="erlang" desc="Erlang" ext="">
             <WordsStyle name="DEFAULT STYLE" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="DEFAULT COMMENT" styleID="1" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="DEFAULT COMMENT" styleID="1" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="FUNCTION COMMENT" styleID="14" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="MODULE COMMENT" styleID="15" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DOCUMENTATION HELPER IN COMMENT" styleID="16" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type3" colorStyle="1" />
@@ -473,34 +473,34 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         </LexerType>
         <LexerType name="errorlist" desc="ErrorList" ext="">
             <WordsStyle name="DEFAULT STYLE" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="PYTHON Error" styleID="1" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="GCC Error" styleID="2" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="MS Error" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="CMD Error" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="BORLAND Error" styleID="5" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="PERL Error" styleID="6" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="NET Error" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="LUA Error" styleID="8" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="CTAG Error" styleID="9" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="PYTHON Error" styleID="1" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="GCC Error" styleID="2" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="MS Error" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="CMD Error" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="BORLAND Error" styleID="5" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="PERL Error" styleID="6" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NET Error" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="LUA Error" styleID="8" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="CTAG Error" styleID="9" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DIFF Changed" styleID="10" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DIFF Addition" styleID="11" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="DIFF Deletion" styleID="12" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="DIFF Deletion" styleID="12" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DIFF Message" styleID="13" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="PHP Error" styleID="14" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ELF Error" styleID="15" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="IFC Error" styleID="16" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="IFORT Error" styleID="17" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ABSF Error" styleID="18" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="TIDY Error" styleID="19" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="JAVA Stack Error" styleID="20" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="VALUE Error" styleID="21" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="GCC Included-From Error" styleID="22" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="PHP Error" styleID="14" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ELF Error" styleID="15" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="IFC Error" styleID="16" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="IFORT Error" styleID="17" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ABSF Error" styleID="18" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="TIDY Error" styleID="19" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="JAVA Stack Error" styleID="20" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="VALUE Error" styleID="21" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="GCC Included-From Error" styleID="22" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="Escape Sequence" styleID="23" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="Unknown Escape Sequence" styleID="24" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="GCC Excerpt Error" styleID="25" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="BASH Error" styleID="26" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="GCC Excerpt Error" styleID="25" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="BASH Error" styleID="26" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR BLACK" styleID="40" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ANSI COLOR RED" styleID="41" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ANSI COLOR RED" styleID="41" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR GREEN" styleID="42" fgColor="84D987" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR BROWN" styleID="43" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR BLUE" styleID="44" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -508,7 +508,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="ANSI COLOR CYAN" styleID="46" fgColor="29B2B2" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR GRAY" styleID="47" fgColor="FAF5E9" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR DARK GRAY" styleID="48" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ANSI COLOR BRIGHT RED" styleID="49" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ANSI COLOR BRIGHT RED" styleID="49" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR BRIGHT GREEN" styleID="50" fgColor="84D987" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR YELLOW" styleID="51" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ANSI COLOR BRIGHT BLUE" styleID="52" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -522,9 +522,9 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="LINE COMMENT" styleID="2" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DOC COMMENT" styleID="3" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="29B2B2" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="KEYWORD" styleID="5" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" colorStyle="1" />
+            <WordsStyle name="KEYWORD" styleID="5" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" colorStyle="1" />
             <WordsStyle name="DOUBLE QUOTED STRING" styleID="6" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="OPERATORS" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="OPERATORS" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="IDENTIFIERS" styleID="8" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="BRACES" styleID="9" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="KEYWORDS2" styleID="10" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" colorStyle="1" />
@@ -537,11 +537,11 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="IDENTIFIER" styleID="3" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="CONTROL" styleID="4" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre2" colorStyle="1" />
-            <WordsStyle name="DEFWORDS" styleID="6" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type1" colorStyle="1" />
-            <WordsStyle name="PREWORD1" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type2" colorStyle="1" />
+            <WordsStyle name="DEFWORDS" styleID="6" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type1" colorStyle="1" />
+            <WordsStyle name="PREWORD1" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type2" colorStyle="1" />
             <WordsStyle name="PREWORD2" styleID="8" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="type3" colorStyle="1" />
             <WordsStyle name="NUMBER" styleID="9" fgColor="29B2B2" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="DOUBLE QUOTED STRING" styleID="10" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="type4" colorStyle="1" />
+            <WordsStyle name="DOUBLE QUOTED STRING" styleID="10" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="type4" colorStyle="1" />
             <WordsStyle name="LOCALE" styleID="11" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="fortran" desc="Fortran (free form)" ext="">
@@ -596,7 +596,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         <LexerType name="gdscript" desc="GDScript" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT LINE" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="2" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="2" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING" styleID="3" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="WORD" styleID="5" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
@@ -695,19 +695,19 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="PREPROCESSOR" styleID="10" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="11" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="IDENTIFIER" styleID="12" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="CONSTANT" styleID="13" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="CONSTANT" styleID="13" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="HEXNUMBER" styleID="14" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="html" desc="HTML" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="9" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="5" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="5" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DOUBLE STRING" styleID="6" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="SINGLE STRING" styleID="7" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="TAG" styleID="1" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" colorStyle="1" />
             <WordsStyle name="TAG END" styleID="11" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="TAG UNKNOWN" styleID="2" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ATTRIBUTE UNKNOWN" styleID="4" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SGML DEFAULT" styleID="21" fgColor="B6CACB" bgColor="144057" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SGML COMMAND" styleID="22" fgColor="83CAFB" bgColor="144057" fontName="" fontStyle="1" fontSize="" keywordClass="instre2" />
@@ -722,10 +722,10 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="USER TAGS2" styleID="193" fgColor="83CAFB" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle2" />
             <WordsStyle name="USER TAGS3" styleID="194" fgColor="83CAFB" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle3" />
             <WordsStyle name="USER TAGS4" styleID="195" fgColor="83CAFB" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle4" />
-            <WordsStyle name="USER ATTRIBUTES1" styleID="196" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" keywordClass="substyle5">download</WordsStyle>
-            <WordsStyle name="USER ATTRIBUTES2" styleID="197" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle6" />
-            <WordsStyle name="USER ATTRIBUTES3" styleID="198" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7" />
-            <WordsStyle name="USER ATTRIBUTES4" styleID="199" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8" />
+            <WordsStyle name="USER ATTRIBUTES1" styleID="196" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" keywordClass="substyle5">download</WordsStyle>
+            <WordsStyle name="USER ATTRIBUTES2" styleID="197" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle6" />
+            <WordsStyle name="USER ATTRIBUTES3" styleID="198" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7" />
+            <WordsStyle name="USER ATTRIBUTES4" styleID="199" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8" />
         </LexerType>
         <LexerType name="ihex" desc="Intel HEX" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -752,8 +752,8 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SECTION" styleID="2" fgColor="83CAFB" bgColor="2A3B40" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="DEFVAL" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="DEFVAL" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="KEY" styleID="5" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="inno" desc="InnoSetup" ext="">
@@ -798,7 +798,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         </LexerType>
         <LexerType name="javascript" desc="JavaScript (embedded)" ext="">
             <WordsStyle name="DEFAULT" styleID="41" fgColor="B6CACB" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="45" fgColor="FBA7A0" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="NUMBER" styleID="45" fgColor="FBA8A0" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="WORD" styleID="46" fgColor="B6CACB" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="KEYWORD" styleID="47" fgColor="2DA7ED" bgColor="2A3B40" fontName="" fontStyle="3" fontSize="" keywordClass="instre1" />
             <WordsStyle name="DOUBLE STRING" styleID="48" fgColor="6F888E" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
@@ -859,7 +859,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="URI" styleID="9" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMPACT IRI" styleID="10" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="KEYWORD" styleID="11" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
-            <WordsStyle name="LD KEYWORD" styleID="12" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" colorStyle="1" />
+            <WordsStyle name="LD KEYWORD" styleID="12" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" colorStyle="1" />
             <WordsStyle name="ERROR" styleID="13" fgColor="B6CACB" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="kix" desc="KiXtart" ext="">
@@ -889,7 +889,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         </LexerType>
         <LexerType name="latex" desc="LaTeX" ext="">
             <WordsStyle name="WHITE SPACE" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="COMMAND" styleID="1" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="COMMAND" styleID="1" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="TAG OPENING" styleID="2" fgColor="D374CC" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="MATH INLINE" styleID="3" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="4" fgColor="84D987" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -934,7 +934,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="PREPROCESSOR" styleID="2" fgColor="2DA7ED" bgColor="2A3B40" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="IDENTIFIER" styleID="3" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="4" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="TARGET" styleID="5" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="TARGET" styleID="5" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="IDEOL" styleID="9" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="matlab" desc="Matlab" ext="">
@@ -950,11 +950,11 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         </LexerType>
         <LexerType name="mssql" desc="MS T-SQL" ext="">
             <WordsStyle name="STATEMENT" styleID="9" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
-            <WordsStyle name="DATA TYPE" styleID="10" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
+            <WordsStyle name="DATA TYPE" styleID="10" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" />
             <WordsStyle name="SYSTEM TABLE" styleID="11" fgColor="B6CACB" bgColor="134347" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
-            <WordsStyle name="GLOBAL" styleID="12" fgColor="FBA7A0" bgColor="473134" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
+            <WordsStyle name="GLOBAL" styleID="12" fgColor="FBA8A0" bgColor="473134" fontName="" fontStyle="0" fontSize="" keywordClass="type2" />
             <WordsStyle name="FUNCTION" styleID="13" fgColor="B6CACB" bgColor="1D4431" fontName="" fontStyle="0" fontSize="" keywordClass="type3" />
-            <WordsStyle name="SYSTEM STORED PROC" styleID="14" fgColor="FBA7A0" bgColor="3F334E" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
+            <WordsStyle name="SYSTEM STORED PROC" styleID="14" fgColor="FBA8A0" bgColor="3F334E" fontName="" fontStyle="0" fontSize="" keywordClass="type4" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
             <WordsStyle name="NUMBER" styleID="3" fgColor="29B2B2" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -982,7 +982,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="REGISTER" styleID="13" fgColor="D374CC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" colorStyle="1" />
             <WordsStyle name="HEXADECIMAL NUMBER" styleID="14" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="15" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="SYMBOL" styleID="16" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="type1" colorStyle="1" />
+            <WordsStyle name="SYMBOL" styleID="16" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="type1" colorStyle="1" />
             <WordsStyle name="COMMENT OTHERWISE" styleID="17" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="nfo" desc="DOS Style" ext="">
@@ -996,14 +996,14 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="STRING RIGHT QUOTE" styleID="4" fgColor="B6CACB" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="FUNCTION" styleID="5" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" colorStyle="1" />
             <WordsStyle name="VARIABLE" styleID="6" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre2" colorStyle="1" />
-            <WordsStyle name="LABEL" styleID="7" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
+            <WordsStyle name="LABEL" styleID="7" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" keywordClass="type1" />
             <WordsStyle name="USER DEFINED" styleID="8" fgColor="FAF5E9" bgColor="3F334E" fontName="" fontStyle="4" fontSize="" keywordClass="type2" />
             <WordsStyle name="SECTION" styleID="9" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="SUBSECTION" styleID="10" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="IF DEFINE" styleID="11" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="MACRO" styleID="12" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING VAR" styleID="13" fgColor="EAB946" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="NUMBER" styleID="14" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="14" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SECTION GROUP" styleID="15" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="PAGE EX" styleID="16" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="FUNCTION DEFINITIONS" styleID="17" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
@@ -1098,15 +1098,15 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="ASM" styleID="14" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="perl" desc="Perl" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1">carp croak</WordsStyle>
-            <WordsStyle name="NUMBER" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SCALAR" styleID="12" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ARRAY" styleID="13" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="HASH" styleID="14" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="SYMBOL TABLE" styleID="15" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="SYMBOL TABLE" styleID="15" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="PROTOTYPE" styleID="40" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING SINGLEQUOTE" styleID="7" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
@@ -1141,7 +1141,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="ERROR" styleID="1" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="3" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="php" desc="PHP" ext="">
-            <WordsStyle name="QUESTION MARK" styleID="18" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="QUESTION MARK" styleID="18" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="118" fgColor="B6CACB" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING" styleID="119" fgColor="6F888E" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="COMPLEX VARIABLE" styleID="104" fgColor="6F888E" bgColor="2A3B40" fontName="" fontStyle="1" fontSize="" />
@@ -1166,7 +1166,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DSC COMMENT" styleID="2" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="DSC VALUE" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="DSC VALUE" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="Name" styleID="5" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="INSTRUCTION" styleID="6" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
@@ -1203,8 +1203,8 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SECTION" styleID="2" fgColor="83CAFB" bgColor="2A3B40" fontName="" fontStyle="1" fontSize="" />
-            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="DEFVAL" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ASSIGNMENT" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="DEFVAL" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="KEY" styleID="5" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="purebasic" desc="PureBasic" ext="">
@@ -1227,7 +1227,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         <LexerType name="python" desc="Python" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT LINE" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="2" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="2" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING" styleID="3" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
@@ -1273,7 +1273,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="ESCAPESEQUENCE" styleID="15" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="raku" desc="Raku" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ERROR" styleID="1" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="3" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT EMBED" styleID="3" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -1289,7 +1289,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="REGEX" styleID="13" fgColor="83CAFB" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="REGEX VAR" styleID="14" fgColor="83CAFB" bgColor="3B3B23" fontName="" fontStyle="3" fontSize="" />
             <WordsStyle name="ADVERB" styleID="15" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="type5" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="16" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="16" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="PREPROCESSOR" styleID="17" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="18" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="INSTRUCTION WORD" styleID="19" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
@@ -1348,7 +1348,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="BINARY ( 16#{1A803F59} )" styleID="11" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="MONEY" styleID="12" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ISSUE { #123-CD-456 }" styleID="13" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="TAG { &lt;TITLE HEIGHT=100&gt; }" styleID="14" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="TAG { &lt;TITLE HEIGHT=100> }" styleID="14" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="FILE { %/C/WINNT/SOME.DLL }" styleID="15" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="EMAIL { JOE@MAIL.DOM }" styleID="16" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="URL { FTP://THERE.DOM }" styleID="17" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -1372,7 +1372,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="HEX DIGIT" styleID="4" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="VALUE TYPE" styleID="5" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="ADDED KEY" styleID="6" fgColor="D374CC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="REMOVED KEY" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="REMOVED KEY" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ESCAPED CHARACTERS IN STRINGS" styleID="8" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="GUID IN KEY PATH" styleID="9" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="GUID IN STRING" styleID="10" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -1432,11 +1432,11 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="RAW C STRING" styleID="25" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="sas" desc="SAS" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT LINE" styleID="2" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT BLOCK" styleID="3" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="5" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="IDENTIFIER" styleID="6" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING" styleID="7" fgColor="D374CC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -1474,7 +1474,7 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="RETURN" styleID="11" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="SPECIAL" styleID="12" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="KWS END" styleID="13" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ASSIGN" styleID="14" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ASSIGN" styleID="14" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="CHARACTER" styleID="15" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SPECIAL SELECTOR" styleID="16" fgColor="F39FEC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
@@ -1605,11 +1605,11 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="TEXT" styleID="5" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="toml" desc="TOML" ext="">
-            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="DEFAULT" styleID="0" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
             <WordsStyle name="IDENTIFIER" styleID="2" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="KEYWORD" styleID="3" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="TABLE" styleID="5" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="KEY" styleID="6" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="ERROR" styleID="7" fgColor="EAB946" bgColor="473134" fontName="" fontStyle="0" fontSize="" />
@@ -1628,8 +1628,8 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="STRONG 2 (NOT USED)" styleID="3" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="EM1 (ITALIC)" styleID="4" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="2" fontSize="" colorStyle="1" />
             <WordsStyle name="EM2 (UNDERLINE)" styleID="5" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="H1" styleID="6" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="H2" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="H1" styleID="6" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="H2" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="H3" styleID="8" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="H4" styleID="9" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="H5" styleID="10" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
@@ -1655,9 +1655,9 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="TYPE WORD" styleID="16" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="type1" colorStyle="1" />
             <WordsStyle name="WINDOW INSTRUCTION" styleID="19" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="NUMBER" styleID="4" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="STRING" styleID="6" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="STRING" styleID="6" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING RAW" styleID="20" fgColor="2DA7ED" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="CHARACTER" styleID="7" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="CHARACTER" styleID="7" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="VERBATIM" styleID="13" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="REGEX" styleID="14" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
@@ -1679,10 +1679,10 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
         <LexerType name="vb" desc="VB / VBS" ext="">
             <WordsStyle name="DEFAULT" styleID="7" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="1" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="2" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="2" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="WORD" styleID="3" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" keywordClass="instre1" colorStyle="1" />
             <WordsStyle name="STRING" styleID="4" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="PREPROCESSOR" styleID="5" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="PREPROCESSOR" styleID="5" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="OPERATOR" styleID="6" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="DATE" styleID="8" fgColor="84D987" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
@@ -1737,25 +1737,25 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="CHARACTER ESCAPE ERROR" styleID="15" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING" styleID="16" fgColor="35DADA" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING ESCAPE" styleID="17" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="STRING ESCAPE ERROR" styleID="18" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="STRING ESCAPE ERROR" styleID="18" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING EOL OPEN" styleID="19" fgColor="FAF5E9" bgColor="473134" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="STRING VERBATIM" styleID="20" fgColor="2DA7ED" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING VERBATIM SPECIAL" styleID="21" fgColor="D374CC" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="STRING VERBATIM EOL" styleID="22" fgColor="FAF5E9" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
         </LexerType>
         <LexerType name="xml" desc="XML" ext="">
-            <WordsStyle name="XML START" styleID="12" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
-            <WordsStyle name="XML END" styleID="13" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="XML START" styleID="12" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="XML END" styleID="13" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="COMMENT" styleID="9" fgColor="52B65A" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="NUMBER" styleID="5" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="NUMBER" styleID="5" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DOUBLE STRING" styleID="6" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="SINGLE STRING" styleID="7" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
             <WordsStyle name="TAG" styleID="1" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="TAG END" styleID="11" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="TAG UNKNOWN" styleID="2" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="ATTRIBUTE UNKNOWN" styleID="4" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ATTRIBUTE UNKNOWN" styleID="4" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="SGML DEFAULT" styleID="21" fgColor="B6CACB" bgColor="144057" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="SGML COMMAND" styleID="22" fgColor="83CAFB" bgColor="144057" fontName="" fontStyle="1" fontSize="" keywordClass="instre1" />
             <WordsStyle name="SGML 1ST PARAM" styleID="23" fgColor="83CAFB" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
@@ -1764,14 +1764,14 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="SGML BLOCK DEFAULT" styleID="31" fgColor="B6CACB" bgColor="2A3B40" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="CDATA" styleID="17" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="ENTITY" styleID="10" fgColor="B6CACB" bgColor="3B3B23" fontName="" fontStyle="2" fontSize="" />
-            <WordsStyle name="USER ATTRIBUTES 1" styleID="192" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle1" />
-            <WordsStyle name="USER ATTRIBUTES 2" styleID="193" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle2" />
-            <WordsStyle name="USER ATTRIBUTES 3" styleID="194" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle3" />
-            <WordsStyle name="USER ATTRIBUTES 4" styleID="195" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle4" />
-            <WordsStyle name="USER ATTRIBUTES 5" styleID="196" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle5" />
-            <WordsStyle name="USER ATTRIBUTES 6" styleID="197" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle6" />
-            <WordsStyle name="USER ATTRIBUTES 7" styleID="198" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7" />
-            <WordsStyle name="USER ATTRIBUTES 8" styleID="199" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8" />
+            <WordsStyle name="USER ATTRIBUTES 1" styleID="192" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle1" />
+            <WordsStyle name="USER ATTRIBUTES 2" styleID="193" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle2" />
+            <WordsStyle name="USER ATTRIBUTES 3" styleID="194" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle3" />
+            <WordsStyle name="USER ATTRIBUTES 4" styleID="195" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle4" />
+            <WordsStyle name="USER ATTRIBUTES 5" styleID="196" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle5" />
+            <WordsStyle name="USER ATTRIBUTES 6" styleID="197" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle6" />
+            <WordsStyle name="USER ATTRIBUTES 7" styleID="198" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle7" />
+            <WordsStyle name="USER ATTRIBUTES 8" styleID="199" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="1" fontSize="" keywordClass="substyle8" />
         </LexerType>
         <LexerType name="yaml" desc="YAML" ext="">
             <WordsStyle name="DEFAULT" styleID="0" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
@@ -1782,71 +1782,71 @@ Notes: Uses background inheritance (colorStyle="1") for styles that normally use
             <WordsStyle name="REFERENCE" styleID="5" fgColor="C29524" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="DOCUMENT" styleID="6" fgColor="83CAFB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
             <WordsStyle name="TEXT" styleID="7" fgColor="6F888E" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" colorStyle="1" />
-            <WordsStyle name="ERROR" styleID="8" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
+            <WordsStyle name="ERROR" styleID="8" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
         </LexerType>
         <LexerType name="searchResult" desc="Search result" ext="">
             <WordsStyle name="Search Header" styleID="1" fgColor="2DA7ED" bgColor="144057" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="File Header" styleID="2" fgColor="52B65A" bgColor="1D4431" fontName="" fontStyle="1" fontSize="" />
             <WordsStyle name="Line Number" styleID="3" fgColor="EAB946" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" colorStyle="1" />
-            <WordsStyle name="Hit Word" styleID="4" fgColor="FBA7A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
+            <WordsStyle name="Hit Word" styleID="4" fgColor="FBA8A0" bgColor="3B3B23" fontName="" fontStyle="0" fontSize="" />
             <WordsStyle name="Current line background colour" styleID="6" bgColor="2A3B40" />
         </LexerType>
     </LexerStyles>
     <GlobalStyles>
         <!-- Attention : Don't modify the name of styleID="0" -->
-        <WidgetStyle name="Default Style" styleID="32" fgColor="B6CACB" bgColor="0B1C22" fontName="Courier New" fontStyle="0" fontSize="10" />
-        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FBA7A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize="" />
-        <WidgetStyle name="Bad brace colour" styleID="35" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Current line background colour" styleID="0" bgColor="152D35" />
+        <WidgetStyle name="Default Style" styleID="32" fgColor="B6CACB" bgColor="0B1C22" fontName="RedHatMono Nerd Font" fontStyle="0" fontSize="12"></WidgetStyle>
+        <WidgetStyle name="Indent guideline style" styleID="37" fgColor="B6CACB" bgColor="0B1C22" fontName="" fontStyle="0" fontSize=""></WidgetStyle>
+        <WidgetStyle name="Brace highlight style" styleID="34" fgColor="FBA8A0" bgColor="0B1C22" fontName="" fontStyle="1" fontSize=""></WidgetStyle>
+        <WidgetStyle name="Bad brace colour" styleID="35" fgColor="F26D67" bgColor="0B1C22" fontName="" fontStyle="0" fontSize=""></WidgetStyle>
+        <WidgetStyle name="Current line background colour" styleID="0" bgColor="152D35"></WidgetStyle>
         <!-- In below rule 'fgColor' attribute for 'Selected text colour' can be unlocked with a enableSelectFgColor.xml file -->
-        <WidgetStyle name="Selected text colour" styleID="0" bgColor="1B3741" fgColor="FAF5E9" />
-        <WidgetStyle name="Multi-selected text color" styleID="0" bgColor="1E4B60" />
-        <WidgetStyle name="Caret colour" styleID="0" fgColor="FF7263" />
-        <WidgetStyle name="Multi-edit carets color" styleID="0" fgColor="F26D67" />
-        <WidgetStyle name="Edge colour" styleID="0" fgColor="35DADA" />
-        <WidgetStyle name="Line number margin" styleID="33" fgColor="8FA6A9" bgColor="10252C" fontName="" fontStyle="0" fontSize="" />
-        <WidgetStyle name="Bookmark margin" styleID="0" bgColor="0F242B" />
-        <WidgetStyle name="Change History margin" styleID="0" bgColor="0F242B" />
-        <WidgetStyle name="Change History modified" styleID="0" fgColor="EAB946" bgColor="3B3B23" />
-        <WidgetStyle name="Change History revert modified" styleID="0" fgColor="EAB946" bgColor="3B3B23" />
-        <WidgetStyle name="Change History revert origin" styleID="0" fgColor="35DADA" bgColor="134347" />
-        <WidgetStyle name="Change History saved" styleID="0" fgColor="52B65A" bgColor="1D4431" />
-        <WidgetStyle name="Fold" styleID="0" fgColor="6F888E" bgColor="2A3B40" />
-        <WidgetStyle name="Fold active" styleID="0" fgColor="FBA7A0" />
-        <WidgetStyle name="Fold margin" styleID="0" fgColor="9DB3B6" bgColor="0F2229" />
-        <WidgetStyle name="White space symbol" styleID="0" fgColor="EAB946" />
-        <WidgetStyle name="Smart Highlighting" styleID="29" bgColor="1D4431" />
-        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="473134" />
-        <WidgetStyle name="Find status: Not found" styleID="0" fgColor="FBA7A0" />
-        <WidgetStyle name="Find status: Message" styleID="0" fgColor="83CAFB" />
-        <WidgetStyle name="Find status: Search end reached" styleID="0" fgColor="52B65A" />
-        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="134347" />
-        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="3B3B23" />
-        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="3B3B23" />
-        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="144057" />
-        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="1D4431" />
-        <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="134347" />
-        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="144057" />
-        <WidgetStyle name="Tags attribute" styleID="26" bgColor="3B3B23" />
-        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="EAB946" />
-        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FBA7A0" />
-        <WidgetStyle name="Active tab text" styleID="0" fgColor="B6CACB" />
-        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="6F888E" bgColor="2A3B40" />
-        <WidgetStyle name="Tab color 1" styleID="0" bgColor="3B3B23" />
-        <WidgetStyle name="Tab color 2" styleID="0" bgColor="1D4431" />
-        <WidgetStyle name="Tab color 3" styleID="0" bgColor="144057" />
-        <WidgetStyle name="Tab color 4" styleID="0" bgColor="3B3B23" />
-        <WidgetStyle name="Tab color 5" styleID="0" bgColor="3F334E" />
-        <WidgetStyle name="Tab color dark mode 1" styleID="0" bgColor="3B3B23" />
-        <WidgetStyle name="Tab color dark mode 2" styleID="0" bgColor="1D4431" />
-        <WidgetStyle name="Tab color dark mode 3" styleID="0" bgColor="144057" />
-        <WidgetStyle name="Tab color dark mode 4" styleID="0" bgColor="473134" />
-        <WidgetStyle name="Tab color dark mode 5" styleID="0" bgColor="3F334E" />
-        <WidgetStyle name="URL hovered" styleID="0" fgColor="83CAFB" />
-        <WidgetStyle name="Document map" styleID="0" fgColor="C29524" bgColor="0E2128" />
-        <WidgetStyle name="EOL custom color" styleID="0" fgColor="FAF5E9" />
-        <WidgetStyle name="Non-printing characters custom color" styleID="0" fgColor="EAB946" />
-        <WidgetStyle name="Global override" styleID="0" fgColor="EAB946" bgColor="3B3B23" fontName="Courier New" fontStyle="0" fontSize="" />
+        <WidgetStyle name="Selected text colour" styleID="0" bgColor="1B3741" fgColor="FAF5E9"></WidgetStyle>
+        <WidgetStyle name="Multi-selected text color" styleID="0" bgColor="1E4B60"></WidgetStyle>
+        <WidgetStyle name="Caret colour" styleID="0" fgColor="FF7263"></WidgetStyle>
+        <WidgetStyle name="Multi-edit carets color" styleID="0" fgColor="F26D67"></WidgetStyle>
+        <WidgetStyle name="Edge colour" styleID="0" fgColor="35DADA"></WidgetStyle>
+        <WidgetStyle name="Line number margin" styleID="33" fgColor="8FA6A9" bgColor="10252C" fontName="" fontStyle="0" fontSize=""></WidgetStyle>
+        <WidgetStyle name="Bookmark margin" styleID="0" bgColor="0F242B"></WidgetStyle>
+        <WidgetStyle name="Change History margin" styleID="0" bgColor="0F242B"></WidgetStyle>
+        <WidgetStyle name="Change History modified" styleID="0" fgColor="EAB946" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Change History revert modified" styleID="0" fgColor="EAB946" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Change History revert origin" styleID="0" fgColor="35DADA" bgColor="134347"></WidgetStyle>
+        <WidgetStyle name="Change History saved" styleID="0" fgColor="52B65A" bgColor="1D4431"></WidgetStyle>
+        <WidgetStyle name="Fold" styleID="0" fgColor="6F888E" bgColor="2A3B40"></WidgetStyle>
+        <WidgetStyle name="Fold active" styleID="0" fgColor="FBA8A0"></WidgetStyle>
+        <WidgetStyle name="Fold margin" styleID="0" fgColor="9DB3B6" bgColor="0F2229"></WidgetStyle>
+        <WidgetStyle name="White space symbol" styleID="0" fgColor="EAB946"></WidgetStyle>
+        <WidgetStyle name="Smart Highlighting" styleID="29" bgColor="1D4431"></WidgetStyle>
+        <WidgetStyle name="Find Mark Style" styleID="31" bgColor="473134"></WidgetStyle>
+        <WidgetStyle name="Find status: Not found" styleID="0" fgColor="FBA8A0"></WidgetStyle>
+        <WidgetStyle name="Find status: Message" styleID="0" fgColor="83CAFB"></WidgetStyle>
+        <WidgetStyle name="Find status: Search end reached" styleID="0" fgColor="52B65A"></WidgetStyle>
+        <WidgetStyle name="Mark Style 1" styleID="25" bgColor="134347"></WidgetStyle>
+        <WidgetStyle name="Mark Style 2" styleID="24" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Mark Style 3" styleID="23" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Mark Style 4" styleID="22" bgColor="144057"></WidgetStyle>
+        <WidgetStyle name="Mark Style 5" styleID="21" bgColor="1D4431"></WidgetStyle>
+        <WidgetStyle name="Incremental highlight all" styleID="28" bgColor="134347"></WidgetStyle>
+        <WidgetStyle name="Tags match highlighting" styleID="27" bgColor="144057"></WidgetStyle>
+        <WidgetStyle name="Tags attribute" styleID="26" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Active tab focused indicator" styleID="0" fgColor="EAB946"></WidgetStyle>
+        <WidgetStyle name="Active tab unfocused indicator" styleID="0" fgColor="FBA8A0"></WidgetStyle>
+        <WidgetStyle name="Active tab text" styleID="0" fgColor="B6CACB"></WidgetStyle>
+        <WidgetStyle name="Inactive tabs" styleID="0" fgColor="6F888E" bgColor="2A3B40"></WidgetStyle>
+        <WidgetStyle name="Tab color 1" styleID="0" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Tab color 2" styleID="0" bgColor="1D4431"></WidgetStyle>
+        <WidgetStyle name="Tab color 3" styleID="0" bgColor="144057"></WidgetStyle>
+        <WidgetStyle name="Tab color 4" styleID="0" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Tab color 5" styleID="0" bgColor="3F334E"></WidgetStyle>
+        <WidgetStyle name="Tab color dark mode 1" styleID="0" bgColor="3B3B23"></WidgetStyle>
+        <WidgetStyle name="Tab color dark mode 2" styleID="0" bgColor="1D4431"></WidgetStyle>
+        <WidgetStyle name="Tab color dark mode 3" styleID="0" bgColor="144057"></WidgetStyle>
+        <WidgetStyle name="Tab color dark mode 4" styleID="0" bgColor="473134"></WidgetStyle>
+        <WidgetStyle name="Tab color dark mode 5" styleID="0" bgColor="3F334E"></WidgetStyle>
+        <WidgetStyle name="URL hovered" styleID="0" fgColor="83CAFB"></WidgetStyle>
+        <WidgetStyle name="Document map" styleID="0" fgColor="C29524" bgColor="0E2128"></WidgetStyle>
+        <WidgetStyle name="EOL custom color" styleID="0" fgColor="FAF5E9"></WidgetStyle>
+        <WidgetStyle name="Non-printing characters custom color" styleID="0" fgColor="EAB946"></WidgetStyle>
+        <WidgetStyle name="Global override" styleID="0" fgColor="EAB946" bgColor="3B3B23" fontName="Courier New" fontStyle="0" fontSize=""></WidgetStyle>
     </GlobalStyles>
 </NotepadPlus>
